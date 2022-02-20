@@ -123,6 +123,7 @@ killall openssl
 
 ### to show temperature
 vcgencmd measure_temp
+
 ### or autorefresh stats
 while true; do
     clear; \
